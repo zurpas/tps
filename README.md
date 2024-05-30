@@ -1,1 +1,1 @@
-Download the files by clicking the latest "Release" on the right side of the page and follow the instructions on the release page. It should be labeled something like "v1.0.0) Mods, Configs, Cache, etc.".
+these are just the config text documents.
