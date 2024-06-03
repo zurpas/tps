@@ -6,7 +6,6 @@ DrakiaXYZ-BigBrain.dll
 DrakiaXYZ-SearchOpenContainers.dll
 DrakiaXYZ-Waypoints
 dvize.Donuts
-file_names.txt
 FOVFix.dll
 Gaylatea-UseLooseLoot.dll
 IcyClawz.CustomInteractions.dll
